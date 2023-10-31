@@ -1,0 +1,1 @@
+cmd_/home/broco/mydir/assignment6/simple_module.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -z noexecstack   --build-id  -T ./scripts/module-common.lds -o /home/broco/mydir/assignment6/simple_module.ko /home/broco/mydir/assignment6/simple_module.o /home/broco/mydir/assignment6/simple_module.mod.o;  true

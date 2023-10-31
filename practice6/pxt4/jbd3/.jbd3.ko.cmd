@@ -1,0 +1,1 @@
+cmd_/home/broco/mydir/jbd3/jbd3.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -z noexecstack   --build-id  -T ./scripts/module-common.lds -o /home/broco/mydir/jbd3/jbd3.ko /home/broco/mydir/jbd3/jbd3.o /home/broco/mydir/jbd3/jbd3.mod.o;  true
