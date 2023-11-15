@@ -6352,8 +6352,8 @@ static void __exit pxt4_exit_fs(void)
 	pxt4_exit_es();
 	pxt4_exit_pending();
 	// assignment 7
-	printk("pxt4_fi;;le_write_iter is called %llu times and the time interval is %lluns\n", file_write_iter_count, file_write_iter_time);
-	printk("test");
+	printk("pxt4_file_write_iter is called %llu times and the time interval is %lluns\n", file_write_iter_count, file_write_iter_time);
+
 }
 
 MODULE_AUTHOR("Remy Card, Stephen Tweedie, Andrew Morton, Andreas Dilger, Theodore Ts'o and others");

@@ -1,4 +1,4 @@
-cscope 15 $HOME/mydir/practice7/pxt4               0001347930
+cscope 15 $HOME/mydir/practice7/pxt4               0001347924
 	@acl.c
 
 8 
@@ -45559,6 +45559,10 @@ pxt4_ş—r_šode_es
 
 35 
 	~"aş.h
+"
+
+36 
+	~"ÿlşock.h
 "
 
 38 #ifdeà
@@ -217223,15 +217227,11 @@ pxt4_fs_ty³
 
 6355 
 	`´štk
-("pxt4_fi;;Ë_wr™e_™” i ÿÎed %Îuime ªdhtimš‹rv® i %Îuns\n", 
+("pxt4_fe_wr™e_™” i ÿÎed %Îuime ªdhtimš‹rv® i %Îuns\n", 
 fe_wr™e_™”_couÁ
 , 
 fe_wr™e_™”_time
 );
-
-6356 
-	`´štk
-("test");
 
 6357 
 	}
