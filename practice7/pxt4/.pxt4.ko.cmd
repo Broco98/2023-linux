@@ -1,0 +1,1 @@
+cmd_/home/broco/mydir/practice7/pxt4/pxt4.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -z noexecstack   --build-id  -T ./scripts/module-common.lds -o /home/broco/mydir/practice7/pxt4/pxt4.ko /home/broco/mydir/practice7/pxt4/pxt4.o /home/broco/mydir/practice7/pxt4/pxt4.mod.o;  true
